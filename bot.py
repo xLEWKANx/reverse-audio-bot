@@ -3,8 +3,6 @@ import telebot
 from main import reverseAudioBuffer
 
 BOT_TOKEN = os.environ.get('BOT_TOKEN')
-INPUT_FILE_NAME = 'original.ogg'
-OUTPUT_FILE_NAME = 'reversed.ogg'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
