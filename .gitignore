@@ -1,3 +1,2 @@
 .env
-original.ogg
-reversed.ogg
+__pycache__
